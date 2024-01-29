@@ -43,3 +43,4 @@ line
 string
 '''
 #different is that beginnign of string is touching the quotes 
+print(string)
