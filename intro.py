@@ -95,4 +95,7 @@ for name in names:
     
 #range has to do with index 
 
-#
+# for even in range (2, 10, 2)
+
+for even in range (2, 10, 2):
+    print(even)
