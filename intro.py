@@ -20,3 +20,6 @@ print(type(my_var))
 #serve on front end? need templates 
 
 #booleans are the same as JS but you need capitalization 
+
+#null is NONE in python  
+my_var = None 
