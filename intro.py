@@ -24,4 +24,5 @@ print(type(my_var))
 #null is NONE in python, same as null  
 my_var = None 
 
-#python has normal math operations like JS + - * /  % ** 
+#python has normal math operations like JS + - * // % ** 
+
