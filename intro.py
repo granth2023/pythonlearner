@@ -78,10 +78,10 @@ print(f'The user entered {color}')
 
 
 if color == "green": 
-    print(f'The user entered {color}')
+    print('go')
 elif color == "yellow":
-    print(f'The user entered {color}')
+    print('slow')
 elif color == "red":
-    print(f'The user entered {color}')
+    print('stop')
 else:
-    print (f'The user entered {color}')
+    print ('uh-oh')
