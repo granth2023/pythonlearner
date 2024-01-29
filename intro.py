@@ -72,3 +72,16 @@ if floor =="sticky":
     print("clean the floor, its sticky")
     if walls =="sticky":
         print("clean the walls!")
+        
+color =input('Enter "green", "yellow", "red": ').lower()
+print(f'The user entered {color}')
+
+
+if color == "green": 
+    print(f)
+elif color == "yellow":
+    print()
+elif color == "red":
+    print()
+else:
+    print ()
