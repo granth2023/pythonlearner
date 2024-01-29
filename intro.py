@@ -18,3 +18,5 @@ MY_CONSTANT_VARIABLE = 9
 print(type(my_var))
 #strictly backend
 #serve on front end? need templates 
+
+#booleans are the same as JS but you need capitalization 
