@@ -16,3 +16,5 @@ MY_CONSTANT_VARIABLE = 9
 #this is the same as javascript
 
 print(type(my_var))
+#strictly backend
+#serve on front end? need templates 
