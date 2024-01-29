@@ -66,22 +66,33 @@ print(string)
 #control flow
 #how does python use indnetaiton? how does it bypass squiggly brackets? how do you branch iwth if statement? 
 
-floor = "sticky"
-walls ="clean"
-if floor =="sticky":
-    print("clean the floor, its sticky")
-    if walls =="sticky":
-        print("clean the walls!")
+# floor = "sticky"
+# walls ="clean"
+# if floor =="sticky":
+#     print("clean the floor, its sticky")
+#     if walls =="sticky":
+#         print("clean the walls!")
         
-color =input('Enter "green", "yellow", "red": ').lower()
-print(f'The user entered {color}')
+# color =input('Enter "green", "yellow", "red": ').lower()
+# print(f'The user entered {color}')
 
 
-if color == "green": 
-    print('go')
-elif color == "yellow":
-    print('slow')
-elif color == "red":
-    print('stop')
-else:
-    print ('uh-oh')
+# if color == "green": 
+#     print('go')
+# elif color == "yellow":
+#     print('slow')
+# elif color == "red":
+#     print('stop')
+# else:
+#     print ('uh-oh')
+
+
+#for loop for if repalces it? 
+#for loop in python is what? 
+names = ( "me", "you", "tom", "kat")
+for name in names: 
+    print(name)
+    
+#range has to do with index 
+
+#
