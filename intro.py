@@ -49,3 +49,7 @@ print(string)
 #list('abcd')
 #dot index  - 
 # dot upper() dot lower()
+
+#what's a built in fucntion? What is a method on the isntance of the calss that are wealing 
+
+# 
