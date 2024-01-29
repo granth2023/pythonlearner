@@ -55,3 +55,5 @@ print(string)
 # everything in pyhton is an object  
 
 #in JS what did control flow dictate? was it order of operations? 
+
+#turhy or falseey? #what is falsy in python? is false none zero  empty range
