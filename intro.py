@@ -21,5 +21,5 @@ print(type(my_var))
 
 #booleans are the same as JS but you need capitalization 
 
-#null is NONE in python  
+#null is NONE in python, same as null  
 my_var = None 
