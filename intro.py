@@ -30,4 +30,6 @@ my_var = None
 # if yes left side if no right side in JS but in python has a different syntax
 
 #takes conditional and puts it in the middle
-beverage = 'Beer' if age >=21 else 'Milk'
+#beverage = 'Beer' if age >=21 else 'Milk'
+
+#how to convert values in python - what are the out of box functions? 
