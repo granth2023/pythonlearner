@@ -44,3 +44,8 @@ string
 '''
 #different is that beginnign of string is touching the quotes 
 print(string)
+
+#what is the lsit method? is it like split? 
+#list('abcd')
+#dot index  - 
+# dot upper() dot lower()
