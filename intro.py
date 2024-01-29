@@ -26,3 +26,8 @@ my_var = None
 
 #python has normal math operations like JS + - * // % ** 
 
+#no ternary operators  
+# if yes left side if no right side in JS but in python has a different syntax
+
+#takes conditional and puts it in the middle
+beverage = 'Beer' if age >=21 else 'Milk'
