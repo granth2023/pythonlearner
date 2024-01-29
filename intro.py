@@ -59,3 +59,16 @@ print(string)
 #turhy or falseey? #what is falsy in python? is false none zero  empty range
 
 # == no tripel equals in python 
+
+#hello or 0 0 or hello 
+#false and true is false -- hello and 0 is 0 
+
+#control flow
+#how does python use indnetaiton? how does it bypass squiggly brackets? how do you branch iwth if statement? 
+
+floor = "sticky"
+walls ="clean"
+if floor =="sticky":
+    print("clean the floor, its sticky")
+    if walls =="sticky":
+        print("clean the walls!")
