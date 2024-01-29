@@ -33,3 +33,13 @@ my_var = None
 #beverage = 'Beer' if age >=21 else 'Milk'
 
 #how to convert values in python - what are the out of box functions? 
+
+'''
+quote 
+
+'''
+string = '''multi 
+line
+string
+'''
+#different is that beginnign of string is touching the quotes 
