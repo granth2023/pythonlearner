@@ -52,4 +52,4 @@ print(string)
 
 #what's a built in fucntion? What is a method on the isntance of the calss that are wealing 
 
-# 
+# everything in pyhton is an object  
