@@ -102,3 +102,9 @@ for even in range (2, 10, 2):
 
 
 #in js some fucntions that dont get hoisted like funciton expressions and arrow functions. only delcarations will get hoisted in JS -- in Python you cant call a function until after you define it. 
+
+#can we have call back functions? what is a third thing we can pass into computer? what does op stnad for? it could be cat? hwo do we call it? call op and return ab 
+
+#we return cat passing a and b and then print computer 1,2, and then what you want to do like add
+
+#is this calling fucntions
