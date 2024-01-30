@@ -108,3 +108,5 @@ for even in range (2, 10, 2):
 #we return cat passing a and b and then print computer 1,2, and then what you want to do like add
 
 #is this calling fucntions
+
+#does python require amount of things? if you define fucntion add with and ab you can't just call add? it will not call add 
