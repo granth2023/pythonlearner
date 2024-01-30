@@ -99,3 +99,6 @@ for name in names:
 
 for even in range (2, 10, 2):
     print(even)
+
+
+#in js some fucntions that dont get hoisted like funciton expressions and arrow functions. only delcarations will get hoisted in JS -- in Python you cant call a function until after you define it. 
